@@ -9,13 +9,17 @@ apropos <text>
 ```
 
 # further doc
+```
 /usr/share/doc
+```
 
 # regular expressions
 https://autohotkey.com/docs/misc/RegEx-QuickRef.htm
 
 # display contents of files side-by-side
+```
 ls file[0-9] | xargs paste
+```
 
 # offset within string
 ```
